@@ -4,5 +4,4 @@ __pycache__/
 .env
 .DS_Store
 .venv/
-notebooks/L3_Python_notebook_tutorial_Netflix.ipynb
 
